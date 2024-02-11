@@ -1,5 +1,11 @@
 # @medusajs/product
 
+## 0.3.10
+
+### Patch Changes
+
+- [#6358](https://github.com/medusajs/medusa/pull/6358) [`b91a1ca5b`](https://github.com/medusajs/medusa/commit/b91a1ca5b804e66cf5bfc51403f4367a935e6349) Thanks [@adrien2p](https://github.com/adrien2p)! - chore: cleanup inspection
+
 ## 0.3.9
 
 ### Patch Changes
